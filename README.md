@@ -2,9 +2,9 @@
   <h1>Hi!</h1>
   <p><strong>Web Applications, Scripts & Software Solutions</strong></p>
   <p>
-    <a href="https://Novasix.eu.cc">Website</a> •
-    <a href="https://github.com/Novasix">GitHub</a> •
-    <a href="mailto:contact@Novasix.eu.cc">Contact</a>
+    <a href="https://nsbbs.eu.cc">Website</a> •
+    <a href="https://github.com/NS-Community">GitHub</a> •
+    <a href="mailto:17732979267@163.com">Contact</a>
   </p>
   <p>
     <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square" alt="Profile views" />
@@ -29,7 +29,7 @@
 
 ### 📬 Connect With Us
 
-- 🌐 **Website:** [Novasix.eu.cc](https://www.nsbbs.eu.cc)
+- 🌐 **Website:** [nsbbs.eu.cc](https://www.nsbbs.eu.cc)
 - 📧 **Business Inquiries:** [1972929486@qq.com](mailto:1972929486@qq.com)
 
 <div align="center">
